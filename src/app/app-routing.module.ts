@@ -7,10 +7,15 @@ const routes: Routes = [
     loadChildren: () => import('./home/home.module').then( m => m.HomePageModule)
   },
   {
+    path: 'elegir-sub',
+    loadChildren: () => import('./elegir-sub/elegir-sub.module').then( m => m.ElegirSubPageModule)
+  },
+  {
     path: '',
     redirectTo: 'home',
     pathMatch: 'full'
-  },
+  }
+
 ];
 
 @NgModule({
