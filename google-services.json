@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407917863408",
+    "firebase_url": "https://app-refresh2.firebaseio.com",
+    "project_id": "app-refresh2",
+    "storage_bucket": "app-refresh2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407917863408:android:e118d13c4951eea49bfd35",
+        "android_client_info": {
+          "package_name": "com.apprefresh.powerexp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407917863408-srr9resncsnsc48n5j8gl7a6u9uatf7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJi6WHi2DZVEGxoaFb4cxSGc9EOAUF9gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407917863408-srr9resncsnsc48n5j8gl7a6u9uatf7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
